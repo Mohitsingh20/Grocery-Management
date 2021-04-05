@@ -75,6 +75,7 @@ int main()
             default:            // if it chooses the wrong choice display a error message and ask him/her to choose once more time
             {
                 cout << "\n Invalid option,please choose the correct option ";
+                cost=0;
             }
 
             }
